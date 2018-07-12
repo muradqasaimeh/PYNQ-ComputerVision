@@ -3,7 +3,7 @@
 ## List of Supported Components:
 
 | Image Arithmetic      | Filters       |   Geometric Transform | Flow and Depts|   Features    | Input Processing	| Analysis 	|
-| ---------             | ---------     |   ---------           |    ---------  |    ---------  |  ---------  		|			|
+| ---------             | ---------     |   ---------           |    ---------  |    ---------  |  ---------  		|--------- 	|
 |                       |   Filter 2D   |         Remap         |   StereoBM    |   Canny       | 					|			|
 |                       |   Erode       |                       |               |               |					|			|
 |                       |   Dilate      |                       |               |               |					|			|
